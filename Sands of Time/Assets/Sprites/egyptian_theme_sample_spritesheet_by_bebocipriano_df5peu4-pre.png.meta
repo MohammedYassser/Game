@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: 182b38995fb7b1b4eb71f68ded6f4235
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 636
+        width: 142
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e65147f55b33c4c930fb2135de4bf5
+      internalID: -1045035348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 636
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b96e75d2aad34e9ef8627757660ef
+      internalID: -441059965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 207
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93222f30a4ae9a8489e2f7464dd5240a
+      internalID: -1758500501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 209
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd948b9e893ece45b4faf64b689b968
+      internalID: 1845819099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 636
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e065b6df8081445b5630d22ed0df89
+      internalID: -1570979194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 635
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3592c962e04746a7ef0bc3dbece0d
+      internalID: 642871208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_6
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 638
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256ec1ccbc07384b995268a7f2029c1
+      internalID: -1702567403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 650
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16413eb0ba8840146abfd9eee14e89a4
+      internalID: -1027647850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 573
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9ad2cc2c1f5642a0aaa69cd32faa6
+      internalID: -1122940124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 545
+        width: 139
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b254e6fc08cbc4ca5eefc32beb7877
+      internalID: -1707387325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 545
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06efcbce2e0feb459937ff9247618b7
+      internalID: 286108043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 545
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d229158cada94399b56e25f29763c
+      internalID: 141557013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 548
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e0d50ade76674da78394200e5a03d
+      internalID: -1461544660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 548
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec39e30f5209824eb7e14cc478e5272
+      internalID: 1025668610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_14
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 545
+        width: 208
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77881be4394300f478881c67f44682a2
+      internalID: -1225772676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233bef764c6fc0c4aa7bff298f5b3638
+      internalID: 2099341908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 468
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242da2e8c49630142a7b85688362a2af
+      internalID: -623708748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 465
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71745308e1aae54b9252679619c0304
+      internalID: 2007400802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 454
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e387126cbed54a83f5f05a5bf3b87
+      internalID: 1129678937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 465
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b7c9961567b140815f57374657980
+      internalID: -1077113492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 454
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f45d65726cf574d8e60d6ccb0d85e4
+      internalID: 307128879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 454
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656059f50047fdd488a657a7b30969f5
+      internalID: 1303688909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_22
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 454
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d74fe798f85e4bba5a45a45a6029c
+      internalID: 1000137103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 454
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88006484a01d2d04fbaea473c9aad7f3
+      internalID: -1669956067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_24
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 454
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf1b6fe7d2f5544a9215d5bad7f020
+      internalID: 1146854853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 454
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc3abad0ea859469d647d692f9ffe5
+      internalID: -976878350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0075856746d7764c8c00ed4e345e7c0
+      internalID: -947473300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 365
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16815fadbcadb45b65414250a2472c
+      internalID: -427851434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 432
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8640ef3cf82ba1e47bc78bdc323e934c
+      internalID: -1821648865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 364
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43d9a614ac52144b7ebb9d2681f7f3
+      internalID: -474149849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 371
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9505ccd3e0bf0e4cbb1dd1abc3b6008
+      internalID: -841474376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 362
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc07eb4e1ea6894f9bfbc40a1c0331c
+      internalID: -51292970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_32
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 362
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fef80be05c16648bdfb7c9f4a891b9
+      internalID: 738683412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_33
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 364
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb1327a3507e049b480b7190e3e73c
+      internalID: -55592286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_34
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 364
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b13321dcf4c3740a988313bd02413a
+      internalID: -690553927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_35
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 362
+        width: 205
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6914e301b429245ada1c638a29ceb4
+      internalID: -1930805599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb0304b9cd3454f8a871d90b1024ce
+      internalID: 1686058384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04778a9da009a804f88f357153111810
+      internalID: 1964050012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725fb4907aba48b4fac1730f59a56f3e
+      internalID: -232840014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 334
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b019f3b56e5a454883c47dcab801be0
+      internalID: 1646643861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 347
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c75ca24fc9c54881f40fa13fc1fdb
+      internalID: 2129965318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 271
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b1f7a045d259499028d9a89f6a598
+      internalID: -953161364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 271
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f705974193ec47913a64c87c452f5
+      internalID: 1565331708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 271
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f093f86f589374a9256ed0d3d1e506
+      internalID: 1901337287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 274
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d573ea1200654cbddd23277b5c78c
+      internalID: -440181591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_45
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 274
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86149447d1d8f5741988e4a5cc44bf08
+      internalID: 496843148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_46
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 285
+        width: 208
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e572af174e621b4f86e2fdb8bf0c43e
+      internalID: -1139533089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846b24988d09be43ace5dbabcacc82b
+      internalID: -31988937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be91dec561e7c44a88f07ee10a77506
+      internalID: 2131740077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b1ef3dbb773644856e5e87b57f172
+      internalID: -690588441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 297
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd1c8a7ce40f1459a6c4e1edf261b8
+      internalID: -351997662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d715a6c37336542beeaff783f619f0
+      internalID: -964704471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 205
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940e64f208e1d842af1db4ed7339271
+      internalID: -246333052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 180
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebae1b2f581ac04f95cbcc124726ab8
+      internalID: -1751130566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02b96a56be94ac46852393599b4acef
+      internalID: 263363671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_55
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 114
+        width: 62
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2ed9d33f653d489f7dc1f16e8d95c
+      internalID: -351621383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_56
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 113
+        width: 343
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c3b464027a03f4db6cc7750e22598e
+      internalID: -761155321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_57
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 100
+        width: 204
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97571884d1b626488f2f0d6e5878631
+      internalID: -383125335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_58
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 100
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2618cfbc68ea4cb5f7bb32e5122f8
+      internalID: -155537166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_59
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 100
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81521a56b085284cade841a6eaa109d
+      internalID: -1898891046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_60
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc44077b31c503f48b7e948a969b204c
+      internalID: 528271339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8e21238d3f0c4db5dd0e60715620c
+      internalID: -1417673439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 22
+        width: 140
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43230ee3da6bd54d895623af27a6d05
+      internalID: -1451949220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 203
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5621f1c0595847964ccea45e2c4e8
+      internalID: -753371468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_64
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e868e1d558743d4d87520b5ae408472
+      internalID: -1442982725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_65
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8021ab88d603c4ead305fe4b0d2957
+      internalID: 1805673219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_59: -1898891046
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_1: -441059965
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_6: -1702567403
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_30: -841474376
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_27: -427851434
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_9: -1707387325
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_4: -1570979194
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_36: 1686058384
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_2: -1758500501
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_43: 1901337287
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_54: 263363671
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_49: -690588441
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_58: -155537166
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_53: -1751130566
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_62: -1451949220
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_42: 1565331708
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_16: -623708748
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_7: -1027647850
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_21: 1303688909
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_40: 2129965318
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_5: 642871208
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_47: -31988937
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_14: -1225772676
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_56: -761155321
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_61: -1417673439
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_55: -351621383
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_0: -1045035348
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_26: -947473300
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_13: 1025668610
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_52: -246333052
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_39: 1646643861
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_64: -1442982725
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_46: -1139533089
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_50: -351997662
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_60: 528271339
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_31: -51292970
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_37: 1964050012
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_15: 2099341908
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_17: 2007400802
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_12: -1461544660
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_19: -1077113492
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_44: -440181591
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_65: 1805673219
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_20: 307128879
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_10: 286108043
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_24: 1146854853
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_38: -232840014
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_41: -953161364
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_63: -753371468
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_3: 1845819099
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_57: -383125335
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_34: -690553927
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_23: -1669956067
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_45: 496843148
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_22: 1000137103
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_29: -474149849
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_32: 738683412
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_25: -976878350
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_11: 141557013
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_48: 2131740077
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_28: -1821648865
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_8: -1122940124
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_18: 1129678937
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_51: -964704471
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_33: -55592286
+      egyptian_theme_sample_spritesheet_by_bebocipriano_df5peu4-pre_35: -1930805599
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
