@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 60702227}
   - component: {fileID: 60702226}
   m_Layer: 3
-  m_Name: Terrain Sliced (16x16)_12 (8)
+  m_Name: ...
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -851,7 +851,7 @@ GameObject:
   - component: {fileID: 739526729}
   - component: {fileID: 739526728}
   m_Layer: 0
-  m_Name: GFall Trigger 1
+  m_Name: Ground Fall Trigger 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -870,8 +870,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   groundPieces:
+  - {fileID: 60702227}
   - {fileID: 1551246311}
-  - {fileID: 1483161746}
   fallDelay: 0.2
 --- !u!58 &739526729
 CircleCollider2D:
@@ -2188,7 +2188,7 @@ GameObject:
   - component: {fileID: 1483161746}
   - component: {fileID: 1483161745}
   m_Layer: 3
-  m_Name: ..
+  m_Name: Terrain Sliced (16x16)_12 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3057,6 +3057,87 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1760966736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1760966739}
+  - component: {fileID: 1760966738}
+  - component: {fileID: 1760966737}
+  - component: {fileID: 1760966740}
+  m_Layer: 0
+  m_Name: Stone Fall Trigger 1
+  m_TagString: Untagged
+  m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1760966737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760966736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6a51eec97ec8a499843a6b1d50c7d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeDuration: 0.3
+  shakeMagnitude: 0.2
+--- !u!58 &1760966738
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760966736}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.5
+--- !u!4 &1760966739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760966736}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 28.72, y: -3.46, z: -9.8976755}
+  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1760966740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760966736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc5ae6c32cd309489bed41f5576cbf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeDuration: 1
+  shakeMagnitude: 0.1
+  forwardDistance: 7
+  stonePrefab: {fileID: 2913469712961965531, guid: 4404f30a29e4d36439ceed0e695d2c4b, type: 3}
+  spawnHeight: 7
 --- !u!1 &1770037223
 GameObject:
   m_ObjectHideFlags: 0
