@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3471488014889523443}
   m_Layer: 0
   m_Name: Knight_idle_01
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -170,6 +170,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f02e3c7514bd3543a5472aba17b72a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 3
+  lives: 3
+  flickerDuration: 0.1
+  isImmune: 0
+  immunityDuration: 1.5
 --- !u!1 &2033709471095518517
 GameObject:
   m_ObjectHideFlags: 0
